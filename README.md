@@ -17,7 +17,7 @@ Full-stack dev in progress • Problem solver • Curious human
 - 🌱 Learning: **TypeScript**, **Next.js**, **Docker**, **DSA**
 - 🤝 Open to: collabs on **full-stack** & **open source** tools
 - 💬 Ask me about: JavaScript • React • Node.js • REST APIs
-- 📫 Reach me: **your.email@example.com** *(replace this!)*  
+- 📫 Reach me: **252-35-584@diu.edu.bd**  
 - ⚡ Fun fact: I refactor for fun and write tests on purpose.
 
 ---
@@ -83,19 +83,14 @@ Full-stack dev in progress • Problem solver • Curious human
 
 ## 🧩 Featured Projects
 
-- 🔐 **Secure Auth Starter** – JWT auth, refresh tokens, role-based routes  
-  `Node.js · Express · MongoDB · JWT`  
-  Repo: https://github.com/rudro-kalix/secure-auth-starter
+- 🔐 **Rudros Portfolio** – Defination of me  
+  `HTML · CSS · JavaScript`  
+  Repo: https://github.com/rudro-kalix/rudemaxportfolio
 
-- 🛒 **Mini Commerce** – SSR storefront with product filters & cart  
-  `Next.js · React · Tailwind · Stripe (test)`  
-  Repo: https://github.com/rudro-kalix/mini-commerce
+- 🛒 **Mini Calculator** – Calculates the mark need to score in final for desired Grade  
+  `HTML · CSS · JavaScript`    
+  Repo: https://github.com/rudro-kalix/sem.final-need
 
-- 📝 **Notes API** – Clean REST API with tests & CI  
-  `TypeScript · Express · Prisma · PostgreSQL · Jest`  
-  Repo: https://github.com/rudro-kalix/notes-api
-
-> Replace the repo links above with your actual projects or pin them on your profile.
 
 ---
 
@@ -107,7 +102,7 @@ Full-stack dev in progress • Problem solver • Curious human
 ---
 
 ## 📬 Quick Contact
-- Email: **your.email@example.com**  
+- Email: **252-35-584@diu.edu.bd**  
 - If you want something built or fixed, open an **Issue** or a **Discussion** on this profile.
 
 ---
