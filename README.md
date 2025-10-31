@@ -49,10 +49,10 @@ Full-stack dev in progress • Problem solver • Curious human
 **Databases & Cloud**
 
 
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white)
-[![Netlify Status](https://img.shields.io/netlify/:projectId?style=flat-square)](https://app.netlify.com/sites/your-site-name/deploys)
-![Vercel](https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)	
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)	
+[![Netlify Status](https://img.shields.io/netlify/:projectId?style=for-the-badge)](https://app.netlify.com/sites/your-site-name/deploys)
+![Vercel](https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 **Tools**
 
