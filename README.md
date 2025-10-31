@@ -38,32 +38,26 @@ Full-stack dev in progress • Problem solver • Curious human
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=222)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A.svg?logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000.svg?logo=nextdotjs&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC.svg?logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4.svg?logo=tailwindcss&logoColor=white)
+
+
 
 **Backend**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000.svg?logo=express&logoColor=white)
-![REST](https://img.shields.io/badge/REST-0A0A0A.svg?logo=swagger&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000.svg?logo=jsonwebtokens&logoColor=white)
+
 
 **Databases & Cloud**
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748.svg?logo=prisma&logoColor=white)
+
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E.svg?logo=railway&logoColor=white)
+[![Netlify Status](https://img.shields.io/netlify/:projectId?style=flat-square)](https://app.netlify.com/sites/your-site-name/deploys)
 ![Vercel](https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white)
 
 **Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF.svg?logo=githubactions&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC.svg?logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?logo=figma&logoColor=white)
 
