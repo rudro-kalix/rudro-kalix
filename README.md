@@ -48,12 +48,12 @@ Full-stack dev in progress • Problem solver • Curious human
 
 **Databases & Cloud**
 
-
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)	
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)	
 [![Netlify Status](https://img.shields.io/netlify/b9961834-e392-41eb-ac8a-2fa8e41a37e3?style=for-the-badge)](https://app.netlify.com/projects/orangefine/deploys)
 ![Vercel](https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=github&logoColor=white)
 **Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white)
