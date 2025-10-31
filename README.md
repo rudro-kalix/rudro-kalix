@@ -18,7 +18,7 @@ Full-stack dev in progress • Problem solver • Curious human
 - 🤝 Open to: collabs on **full-stack** & **open source** tools
 - 💬 Ask me about: JavaScript • React • Node.js • REST APIs
 - 📫 Reach me: **252-35-584@diu.edu.bd**  
-- ⚡ Fun fact: I refactor for fun and write tests on purpose.
+- ⚡ Fun fact: Im the builder and ai is my worker.
 
 ---
 
