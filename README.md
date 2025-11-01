@@ -14,9 +14,9 @@ Full-stack dev in progress • Problem solver • Curious human
 
 ## 🚀 About Me
 - 🔭 Currently building: **web apps** and **API-first projects**
-- 🌱 Learning: **TypeScript**, **Next.js**, **Docker**, **DSA**
+- 🌱 Learning: **TypeScript**, **Python**, **JavaScript**, **Software Engineering Courses**
 - 🤝 Open to: collabs on **full-stack** & **open source** tools
-- 💬 Ask me about: JavaScript • React • Node.js • REST APIs
+- 💬 Ask me about: Ethical Hacking • Technical help • Rest APIs
 - 📫 Reach me: **252-35-584@diu.edu.bd**  
 - ⚡ Fun fact: Im the builder and ai is my worker.
 
@@ -25,6 +25,7 @@ Full-stack dev in progress • Problem solver • Curious human
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-handle/)
 [![Twitter](https://img.shields.io/badge/Twitter-111?logo=x&logoColor=white)](https://x.com/your-handle)
+[![Short-Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white)](https://www.shortpor-opal.vercel.app)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white)](https://www.portfolio.ovairal.xyz)
 [![Email](https://img.shields.io/badge/Email-0078D4?logo=gmail&logoColor=white)](mailto:252-35-584@diu.edu.bd)
 
