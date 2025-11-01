@@ -15,7 +15,7 @@ Full-stack dev in progress • Problem solver • Curious human
 ## 🚀 About Me
 - 🔭 Currently building: **web apps** and **API-first projects**
 - 🌱 Learning: **TypeScript**, **Python**, **JavaScript**, **Software Engineering Courses**
-- 🤝 Open to: collabs on **full-stack** & **open source** tools
+- 🤝 Open to: collabs on **Cyber Security** & **Editing** tools
 - 💬 Ask me about: Ethical Hacking • Technical help • Rest APIs
 - 📫 Reach me: **252-35-584@diu.edu.bd**  
 - ⚡ Fun fact: Im the builder and ai is my worker.
