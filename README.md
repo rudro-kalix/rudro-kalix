@@ -86,10 +86,9 @@ Data Scientist in progress • Problem solver • Vibe Coder • Curious human
   `HTML · CSS · JavaScript`  
   Repo: https://github.com/rudro-kalix/rudemaxportfolio
 
-- 🛒 **Mini Calculator** – Calculates the mark need to score in final for desired Grade  
+- 🛒 **Automatic Payment Gateway** – Those who doesn't have Mobile banking Marchant account, they can receive and verify payments automatically by integrating this project with their platform.
   `HTML · CSS · JavaScript`    
-  Repo: https://github.com/rudro-kalix/sem.final-need
-
+  Repo: https://github.com/rudro-kalix/android-notification-listener-main
 
 ---
 
