@@ -4,7 +4,7 @@
 <div align="center">
 
 # Hi there, I'm **Rudro** 👋  
-Data Scientist in progress • Problem solver • Curious human
+Data Scientist in progress • Problem solver • Vibe Coder • Curious human
 
 [![GitHub followers](https://img.shields.io/github/followers/rudro-kalix?style=for-the-badge)](https://github.com/rudro-kalix?tab=followers)
 [![Stars](https://img.shields.io/github/stars/rudro-kalix?style=for-the-badge)](https://github.com/rudro-kalix?tab=repositories)
