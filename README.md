@@ -13,7 +13,7 @@ Data Scientist in progress • Problem solver • Vibe Coder • Curious human
 </div>
 
 ## 🚀 About Me
-## Understanding how things work is my biggest hobby 😺
+- **Understanding how things work is my biggest hobby 😺**
 - 🔭 Currently building: **web apps** and **API-first projects**
 - 🌱 Learning: **TypeScript**, **Python**, **JavaScript**, **Software Engineering Courses**
 - 🤝 Open to: collabs on **Cyber Security** & **Editing** tools
