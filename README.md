@@ -83,12 +83,16 @@ Data Scientist in progress • Problem solver • Vibe Coder • Curious human
 
 ## 🧩 Featured Projects
 
+- 🤖 **ToolzAI Digital Product Telegram Bot** – A Telegram ecommerce bot for selling and automatically delivering digital products. It includes mobile-banking payment verification, seller API integration, referrals, and a responsive management dashboard.<br>
+  `JavaScript · TypeScript · Cloudflare Workers · D1 · Next.js · Telegram Bot API`<br>
+  Repo: https://github.com/rudro-kalix/toolzai_bot-public
+
 - 🔐 **Rudros Portfolio** – Defination of me  
   `HTML · CSS · JavaScript`  
   Repo: https://github.com/rudro-kalix/rudemaxportfolio
 
-- 🛒 **Automatic Payment Gateway** – Those who doesn't have Mobile banking Marchant account, they can receive and verify payments automatically by integrating this project with their platform.
-  `HTML · CSS · JavaScript`    
+- 📲 **Android Notification Listener** – The Android collector used by the ToolzAI Telegram bot to capture mobile-banking notifications and SMS, sync transaction data to Firebase, and automatically verify online payments.<br>
+  `Kotlin · Android · Firebase`<br>
   Repo: https://github.com/rudro-kalix/android-notification-listener-main
 
 ---
