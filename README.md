@@ -18,7 +18,7 @@ Data Scientist in progress • Problem solver • Vibe Coder • Curious human
 - 🌱 Learning: **TypeScript**, **Python**, **JavaScript**, **Software Engineering Courses**
 - 🤝 Open to: collabs on **Cyber Security** & **Editing** tools
 - 💬 Ask me about: Ethical Hacking • Technical help • Rest APIs
-- 📫 Reach me: **252-35-584@diu.edu.bd**  
+- 📫 Reach me: **dev.rduro@gmail.com**
 - ⚡ Fun fact: Im the builder and ai is my worker.
 
 ---
@@ -28,7 +28,7 @@ Data Scientist in progress • Problem solver • Vibe Coder • Curious human
 
 [![Short-Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white)](https://shortport-opal.vercel.app/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white)](https://www.portfolio.ovairal.xyz)
-[![Email](https://img.shields.io/badge/Email-0078D4?logo=gmail&logoColor=white)](mailto:252-35-584@diu.edu.bd)
+[![Email](https://img.shields.io/badge/Email-0078D4?logo=gmail&logoColor=white)](mailto:dev.rduro@gmail.com)
 
 ---
 
@@ -73,9 +73,9 @@ Data Scientist in progress • Problem solver • Vibe Coder • Curious human
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=rudro-kalix&show_icons=true&theme=transparent&hide_border=true)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rudro-kalix&theme=transparent)
 ![Streak](https://streak-stats.demolab.com?user=rudro-kalix&theme=transparent&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rudro-kalix&layout=compact&theme=transparent&hide_border=true)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rudro-kalix&theme=transparent)
 
 </div>
 
@@ -83,12 +83,16 @@ Data Scientist in progress • Problem solver • Vibe Coder • Curious human
 
 ## 🧩 Featured Projects
 
+- 🤖 **ToolzAI Digital Product Telegram Bot** – A Telegram ecommerce bot for selling and automatically delivering digital products. It includes mobile-banking payment verification, seller API integration, referrals, and a responsive management dashboard.<br>
+  `JavaScript · TypeScript · Cloudflare Workers · D1 · Next.js · Telegram Bot API`<br>
+  Repo: https://github.com/rudro-kalix/toolzai_bot-public
+
 - 🔐 **Rudros Portfolio** – Defination of me  
   `HTML · CSS · JavaScript`  
   Repo: https://github.com/rudro-kalix/rudemaxportfolio
 
-- 🛒 **Automatic Payment Gateway** – Those who doesn't have Mobile banking Marchant account, they can receive and verify payments automatically by integrating this project with their platform.
-  `HTML · CSS · JavaScript`    
+- 📲 **Android Notification Listener** – The Android collector used by the ToolzAI Telegram bot to capture mobile-banking notifications and SMS, sync transaction data to Firebase, and automatically verify online payments.<br>
+  `Kotlin · Android · Firebase`<br>
   Repo: https://github.com/rudro-kalix/android-notification-listener-main
 
 ---
@@ -101,7 +105,7 @@ Data Scientist in progress • Problem solver • Vibe Coder • Curious human
 ---
 
 ## 📬 Quick Contact
-- Email: **252-35-584@diu.edu.bd**  
+- Email: **dev.rduro@gmail.com**
 - If you want something built or fixed, open an **Issue** or a **Discussion** on this profile.
 
 ---
