@@ -108,7 +108,7 @@ Data Scientist in progress • Problem solver • Vibe Coder • Curious human
 ---
 
 ## 📬 Quick Contact
-- Email: **dev.rduro@gmail.com**
+- Email: **ds.rduro@gmail.com**
 - If you want something built or fixed, open an **Issue** or a **Discussion** on this profile.
 
 ---
