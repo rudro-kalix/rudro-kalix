@@ -73,9 +73,12 @@ Data Scientist in progress • Problem solver • Vibe Coder • Curious human
 
 <div align="center">
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rudro-kalix&theme=transparent)
-![Streak](https://streak-stats.demolab.com?user=rudro-kalix&theme=transparent&hide_border=true)
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rudro-kalix&theme=transparent)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rudro-kalix&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=uthsobcb&theme=github_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rudro-kalix&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rudro-kalix&theme=github_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rudro-kalix&theme=github_dark)
+
 
 </div>
 
